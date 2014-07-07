@@ -5,6 +5,6 @@
 module.exports = {
   // MongoDB connection options
   mongo: {
-    uri: 'mongodb://localhost/jsfullstackseed-dev'
+    uri: 'tingodb://.db/jsfullstackseed-dev'
   }
 };
